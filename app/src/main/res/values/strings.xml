@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wifi接続＋</string>
+    <string name="SSID_default">SSID名</string>
+    <string name="level_default">電波強度</string>
+
+    <string name="password_text">Password</string>
+    <string name="wifi_grep_text">Wifi検索開始</string>
+</resources>

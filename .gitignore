@@ -1,0 +1,14 @@
+# 無視するファイルリストの定義
+key.properties
+
+# 自動生成されるファイルを無視する。
+.gradle/
+.idea/
+app/build/
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
